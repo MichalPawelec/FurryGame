@@ -3,8 +3,10 @@
 }
 
 body {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
 }
 
 #score {
@@ -49,7 +51,6 @@ body {
 }
 
 #over {
-  display: block;
   background: linear-gradient(#c49fc2, #560a52);
   text-align: center;
   font-size: 2em;
