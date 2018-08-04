@@ -1,16 +1,20 @@
-# FurryGame
-My first JS simple game.
+# FurryGame 
 
-How to play?
-
-The main goal is to collect gold coins. Remember - don't bump into the wall!
-
-Play here: https://michalpawelec.github.io/Furry_Game/
+> FurryGame is my first simple JaveScript game. It was a project during a Coders Lab coding bootcamp.
 
 
+## How to play?
 
-Used technologies and tools: 
-CSS
-HTML
-JS
-Webpack (to divide project into few JS files)
+* Use keyboard arrow to direct Furry.
+* Collect as many gold coins as you can. 
+* Remember - don't bump into the wall!
+
+
+You can play here: https://michalpawelec.github.io/Furry_Game/
+
+
+## Used technologies and tools: 
+* CSS
+* HTML
+* JavaScript
+* Webpack (to divide project into few JS files)
