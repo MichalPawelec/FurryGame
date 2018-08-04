@@ -25,3 +25,6 @@
 [0804/173959.457:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Coldold\Reports\Dump: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
 [0804/173959.463:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
 [0804/173959.465:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Coldold\Reports\Dump: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0804/180344.920:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Coldold\Reports\Dump: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0804/180344.926:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0804/180344.928:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Coldold\Reports\Dump: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
