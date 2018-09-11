@@ -12,6 +12,7 @@
 
 You can play here: https://michalpawelec.github.io/Furry_Game/
 
+![How it looks](./images/screen.png)
 
 ## Used technologies and tools: 
 * CSS
