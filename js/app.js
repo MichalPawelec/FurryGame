@@ -1,6 +1,6 @@
-var Game = require("./game.js");
+const Game = require("./game.js");
 
-var newGame = new Game();
+const newGame = new Game();
 newGame.showFurry();
 newGame.showCoin();
 newGame.startGame();
